@@ -1,0 +1,49 @@
+main{
+    margin: auto;
+    text-align: center;
+    font-family: monospace;
+  }
+  
+img{
+  display: block;
+  margin: auto;
+}
+
+.background{
+  background-color: #4aa;
+  padding: 2px;
+}
+
+#title{
+    font-family: baskerville;
+    margin-bottom: 0px;
+}
+
+.subtitle{
+  margin-top: 0px;
+  font-weight: lighter;
+  font-size: 16px;
+}
+
+.information{
+  margin: auto;
+  width: 75%;
+  text-align: justify;
+
+}
+
+#image{
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#tribute-info
+{
+  font-family: monospace, comicsans;
+}
+
+footer{
+    background-color: #4aa;
+    padding: 3px;
+}
